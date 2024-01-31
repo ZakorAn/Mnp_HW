@@ -5,7 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PlayFab_HW3.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/PlayFab.unity
+    guid: 0cd615d92f695904c976fe14ef806225
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 3de3485a950a9bf488557a6611b7737f
   m_configObjects: {}
