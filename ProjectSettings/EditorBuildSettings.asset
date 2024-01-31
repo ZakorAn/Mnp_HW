@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/PlayFab.unity
     guid: 0cd615d92f695904c976fe14ef806225
   - enabled: 1
+    path: Assets/Scenes/LoadScene.unity
+    guid: 337de25c7cf6c8849a26edee9a9fa476
+  - enabled: 1
     path: Assets/Scenes/Game.unity
     guid: 3de3485a950a9bf488557a6611b7737f
   m_configObjects: {}
